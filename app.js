@@ -1,2 +1,2 @@
-// my first app in node js
+// my first app in node js test
 console.log("Hello World from Redhat!");
